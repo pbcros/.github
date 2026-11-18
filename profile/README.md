@@ -7,6 +7,7 @@ What to keep, what to adapt, what to let go, what to build anew.
 
 PB/CROS is our lab, not an agency.
 Two generations. Many machines. One workbench.
+
 Human and machine. Mixed, never merged.
 
 What's beyond next? We don't know either.
